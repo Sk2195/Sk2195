@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sk2195/README.md<br>👋 • I am now actively involved in the field as Junior Machine Learning Engineer at Omdena. I am also working on my own projects from scratch, which I regularly update on my LinkedIn profile along with my credentials and certificates.My journey in data science has been full of ups and downs, but I find it inspiring to take something from scratch and build a process that answers the questions we seek. As a data scientist/engineer, I see myself as a Sherlock Holmes keen on solving mystery puzzles. I enjoy designing, cleaning, and organizing data to create meaningful insights.I am always learning and updating my skills, and I am currently taking courses to improve my profile. I am open to collaborating on new projects and welcome anyone who wishes to reach out to me via email on my LinkedIn profile.<br><br>💞️ I’m looking to collaborate on new projects.<br><br>📫 • To reach me, please send me email on LinkedIn profile.
+Sk2195/README.md<br>👋 • I am now actively involved in the field in a small startup as ML intern, but as of now experimenting with clinical dataset. I really want to work in health care or within defense so join me as I weekly post projects.
 
 
 ## 🌐 Socials:
