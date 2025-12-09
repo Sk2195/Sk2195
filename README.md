@@ -1,6 +1,5 @@
 # 💫 About Me:
-Sk2195/README.md<br>👋 • I am now actively involved in the field in a small startup as ML intern, but as of now experimenting with clinical dataset. I really want to work in health care or within defense so join me as I weekly post projects.
-
+Sk2195/README.md<br>👋 • I am now actively involved in the field in a small startup as ML intern, but as of now experimenting with clinical dataset. I really want to work in health care.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
